@@ -1,0 +1,2 @@
+# SurfScore
+A final do WSL foi disputada por Medina e Ferreira e o resultado da bateria foi a seguinte: Medina pegou 8 ondas com a seguinte  pontuação: 8, 5, 3, 9, 1, 4, 4, 7. Já Ferreira que também pegou 8 ondas obteve a seguinte pontuação: 5, 3, 7, 2, 9, 2, 4, 10. Crie uma função chamada winner que irá receber um objeto contendo os surfistas e suas respectivas notas e no final retornar um objeto  contendo o vencedor, todos os scores e o average score.
